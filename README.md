@@ -24,3 +24,5 @@
 
 *Always pull before you push as to prevent conflicts with others work on the repository*
 <img src="images/tacticalspray-logo.png" height="150px" width="150px"></img>
+
+Credits: Diveyez, iConic21, PNGImageShack (Image Marked for Reuse)
