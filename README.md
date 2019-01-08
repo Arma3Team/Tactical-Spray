@@ -7,3 +7,7 @@
 
 #### Contributors:
 *Always pull before you push as to prevent conflicts with others work on the repository*
+
+#### Credits:
+
+Logo Image c/o Diveyez & PngImage.net
