@@ -1,0 +1,26 @@
+//EDITABLE
+loadScreen = "images\Loading_screen.paa";			//SMALL LOAD SCREEN IMAGE
+author = "[ZSU]iConic-21";							//AUTHOR OF MISSION 
+onLoadName = "SpeedBall 01";									//MISSION NAME
+OnLoadMission = "http://www.zspecialunit.org";		//TEXT - ZSU WEBSITE
+overviewPicture	= "images\Mission_LoadScreen.paa"; 	//MISSION SELECTION SCREEN IMAGE
+overviewText	= "Paintball Game";					//TEXT BELOW THE MISSION SELECTION SCREEN IMAGE			
+
+onLoadIntroTime=false;
+onLoadMissionTime=false;
+disabledAI=0;
+debriefing=0;
+showGPS=0;
+Respawn = 0;
+RespawnDelay = 1;
+RespawnDialog = 0;
+enabledebugconsole = true;
+
+class Header
+{
+	gameType = COOP;
+	minPlayers = 1;
+	maxPlayers = 24;
+};
+
+

@@ -1,0 +1,2 @@
+_maskList = ["Paintball_Uniform_desert_01_I","Paintball_Uniform_desert_02_I","Paintball_Uniform_desert_03_I","Paintball_Uniform_Digital_Urban_01_I","Paintball_Uniform_Fun_Camo_01_I","Paintball_Uniform_Hex_Camo_01_I","Paintball_Uniform_blue_01_I"];
+_maskList;

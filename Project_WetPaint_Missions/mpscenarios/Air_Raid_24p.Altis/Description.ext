@@ -1,0 +1,26 @@
+//EDITABLE
+loadScreen = "images\Loading_screen.paa";			//SMALL LOAD SCREEN IMAGE
+author = "[ZSU]iConic-21";							//AUTHOR OF MISSION 
+onLoadName = "Parking Lot";									//MISSION NAME
+OnLoadMission = "http://www.zspecialunit.org";		//TEXT - ZSU WEBSITE
+overviewPicture	= "images\Mission_LoadScreen.paa"; 	//MISSION SELECTION SCREEN IMAGE
+overviewText	= "Paintball Game";					//TEXT BELOW THE MISSION SELECTION SCREEN IMAGE			
+
+onLoadIntroTime=false;
+onLoadMissionTime=false;
+disabledAI=1;
+debriefing=1;
+showGPS=1;
+Respawn = 3;
+RespawnDelay = 1;
+RespawnDialog = 0;
+enabledebugconsole = true;
+
+class Header
+{
+	gameType = COOP;
+	minPlayers = 1;
+	maxPlayers = 24;
+};
+
+
